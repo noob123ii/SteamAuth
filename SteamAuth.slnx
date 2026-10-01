@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SteamAuth/SteamAuth.csproj" Id="dc7d2c21-47be-4a0c-b1d3-d936db443989" />
+  <Project Path="SyntaXAuthApi/SyntaXAuthApi.csproj" Id="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+</Solution>
